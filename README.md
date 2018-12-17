@@ -1,4 +1,4 @@
-# MovieRecomandation
+# MovieRecommendation
 A simplified clone of IMDB Top 250 Movies using metadata collected from IMDB.
 
 The following are the steps involved:
