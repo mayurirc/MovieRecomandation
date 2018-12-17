@@ -10,7 +10,7 @@ import pandas as pd
 # In[20]:
 
 
-metadata = pd.read_json('D:/New folder (3)/data/data1.json')
+metadata = pd.read_json('data1.json')
 
 
 # In[21]:
